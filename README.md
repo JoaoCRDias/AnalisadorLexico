@@ -19,3 +19,4 @@ Estrutura da saida:
 Linha Coluna Token
 Exemplo:
 1 1 char
+2 1 x
