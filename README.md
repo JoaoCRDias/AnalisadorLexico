@@ -1,22 +1,29 @@
 # AnalisadorLexico
 
-Instruções de Execução:\n
-python analex.py <arquivo_de_entrada.c>\n
+Instruções de Execução:
 
-Autor: João Carlos Rodrigues Dias\n
+python analex.py <arquivo_de_entrada.c>
+
+Autor: João Carlos Rodrigues Dias
+
 Data: 18/04/2017\n
 
-O objetivo deste programa é a execução de um analisador lexico para uma versão simplificada da linguagem C.\n
+O objetivo deste programa é a execução de um analisador lexico para uma versão simplificada da linguagem C.
 
 O programa que acompanha este documento esta escrito em python, que é uma linguagem interpretada, logo não necessita make file
-ou compilação.\n
+ou compilação.
 
-Para a execução do programa:\n
+Para a execução do programa:
 
-python analex.py <entrada.c>\n
+python analex.py <entrada.c>
 
-Estrutura da saida:\n
-Linha Coluna Token\n
-Exemplo:\n
-1 1 char\n
-2 1 x\n
+Estrutura da saida:
+
+Linha Coluna Token
+
+Exemplo:
+
+1 1 char
+
+2 1 x
+
