@@ -6,7 +6,7 @@ python analex.py <arquivo_de_entrada.c>
 
 Autor: João Carlos Rodrigues Dias
 
-Data: 18/04/2017\n
+Data: 18/04/2017
 
 O objetivo deste programa é a execução de um analisador lexico para uma versão simplificada da linguagem C.
 
